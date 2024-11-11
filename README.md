@@ -42,10 +42,13 @@ Para instalar y ejecutar este programa, sigue los siguientes pasos:
 ¡Las contribuciones son bienvenidas! Para contribuir a este proyecto, sigue estos pasos:
 
 1. Haz un fork del repositorio.
-2. Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`).
-3. Realiza los cambios necesarios y haz commit (`git commit -m 'Añadida nueva funcionalidad'`).
-4. Empuja los cambios a la rama (`git push origin feature/nueva-funcionalidad`).
-5. Abre una Pull Request.
+2. Crea una nueva rama:
+     (`git checkout -b feature/nueva-funcionalidad`).
+4. Realiza los cambios necesarios y haz commit:
+     (`git commit -m 'Añadida nueva funcionalidad'`).
+5. Empuja los cambios a la rama:
+6.   (`git push origin feature/nueva-funcionalidad`).
+7. Abre una Pull Request.
 
 Por favor, asegúrate de seguir las [guías de contribución] y las [reglas del código de conducta].
 
